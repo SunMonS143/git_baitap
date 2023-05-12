@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="15dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.example.textviewfont.custom_textview.AmaticBoldTextview
+        android:layout_width="wrap_content"
+        android:textSize="35sp"
+        android:layout_gravity="center"
+        android:text="HelloWorld"
+        android:layout_height="wrap_content" />
+    <com.example.textviewfont.custom_textview.GrandHotelRegularTextview
+        android:layout_width="wrap_content"
+        android:textSize="35sp"
+        android:layout_gravity="center"
+        android:text="HelloWorld"
+        android:layout_height="wrap_content" />
+    <com.example.textviewfont.custom_textview.MontserratLightTextview
+        android:layout_width="wrap_content"
+        android:textSize="35sp"
+        android:layout_gravity="center"
+        android:text="HelloWorld"
+        android:layout_height="wrap_content" />
+    <com.example.textviewfont.custom_textview.MonsterratThinTextview
+        android:layout_width="wrap_content"
+        android:textSize="35sp"
+        android:layout_gravity="center"
+        android:text="HelloWorld"
+        android:layout_height="wrap_content" />
+    <com.example.textviewfont.custom_textview.PacificoTextview
+        android:layout_width="wrap_content"
+        android:textSize="35sp"
+        android:layout_gravity="center"
+        android:text="HelloWorld"
+        android:layout_height="wrap_content" />
+</LinearLayout>
